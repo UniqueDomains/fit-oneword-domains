@@ -1,22 +1,22 @@
-# Available .FIT One-Word Domains (8,224)
+# Available .FIT One-Word Domains (10,489)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C230%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C224%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C489%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .fit one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .fit one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **10,489 domains** on the canonical page below.
 
-**Public extract:** 8,230 rows · **Live catalog:** 8,224 domains
+**Public extract:** 1,000 rows · **Live catalog:** 10,489 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/fit`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .FIT one-word domain c
 
 ### Files
 
-- `fit.csv` — public CSV extract (8,230 rows)
-- `fit.json` — public JSON extract (8,230 rows)
+- `fit.csv` — public CSV extract (1,000 rows)
+- `fit.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                               |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
-| branded.fit   | available | $43.98    | —             | 72             | 98     | 7      | namecheap                                               |
-| menu.fit      | resell    | $52       | $31.20        | 70             | 34     | 4      | NameCheap, Inc.                                         |
-| converse.fit  | premium   | $50       | $45.99        | 64             | 73     | 8      | name.com                                                |
-| seventeen.fit | available | $42.99    | $45.99        | 84             | 62     | 9      | name.com                                                |
-| apple.fit     | resell    | —         | —             | 98             | 88     | 5      | Chengdu West Dimension Digital Technology Co., Ltd.     |
-| travel.fit    | premium   | $5,200    | $31.20        | 115            | 48     | 6      | namecheap                                               |
-| streaming.fit | available | $43.98    | —             | 88             | 35     | 9      | namecheap                                               |
-| orange.fit    | resell    | —         | —             | 74             | 83     | 6      | Chengdu West Dimension Digital Technology Co., Ltd.     |
-| big.fit       | premium   | $500      | $45.99        | 88             | 47     | 3      | name.com                                                |
-| curious.fit   | available | $42.99    | $45.99        | 74             | 29     | 7      | name.com                                                |
-| kick.fit      | resell    | —         | —             | 98             | 80     | 4      | GoDaddy.com, LLC                                        |
-| genius.fit    | premium   | $1,000    | $45.99        | 98             | 45     | 6      | name.com                                                |
-| dirt.fit      | available | $42.99    | $45.99        | 64             | 28     | 4      | name.com                                                |
-| checkout.fit  | resell    | —         | —             | 68             | 79     | 9      | Spaceship, Inc.                                         |
-| event.fit     | premium   | $1,040    | $31.20        | 96             | 44     | 5      | namecheap                                               |
-| death.fit     | available | $42.99    | $45.99        | 62             | 28     | 5      | name.com                                                |
-| name.fit      | resell    | —         | —             | 82             | 76     | 4      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
-| water.fit     | premium   | $1,040    | $31.20        | 108            | 42     | 5      | namecheap                                               |
-| defense.fit   | available | $43.98    | —             | 70             | 27     | 7      | namecheap                                               |
-| wise.fit      | resell    | —         | —             | 98             | 72     | 4      | Xiamen ChinaSource Internet Service Co., Ltd            |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| makers.fit    | available | $2.99     | —             | 62             | 67     | 6      | name.com          |
+| skills.fit    | resell    | —         | —             | 58             | 47     | 6      | GoDaddy.com, LLC  |
+| Ryan.fit      | premium   | $280      | $35           | 60             | 44     | 4      | namecheap         |
+| travelers.fit | available | $2.99     | —             | 58             | 61     | 9      | name.com          |
+| matcha.fit    | resell    | —         | —             | 86             | 39     | 6      | Sav.com, LLC - 49 |
+| Tools.fit     | premium   | $280      | $35           | 56             | 40     | 5      | namecheap         |
+| RedSox.fit    | available | $45.98    | —             | 72             | 60     | 7      | namecheap         |
+| lets.fit      | resell    | —         | —             | 77             | 39     | 4      | Spaceship, Inc.   |
+| events.fit    | premium   | $5,000    | —             | 68             | 37     | 6      | name.com          |
+| payments.fit  | available | $2.99     | —             | 58             | 33     | 8      | name.com          |
+| spectra.fit   | resell    | —         | —             | 62             | 34     | 7      | Sav.com, LLC - 24 |
+| etc.fit       | premium   | $1,000    | —             | 58             | 34     | 3      | name.com          |
+| inhouse.fit   | available | $2.99     | —             | 70             | 23     | 8      | name.com          |
+| videos.fit    | resell    | —         | —             | 52             | 30     | 6      | GoDaddy.com, LLC  |
+| partners.fit  | premium   | $1,000    | —             | 61             | 32     | 8      | name.com          |
+| faces.fit     | available | $2.99     | —             | 60             | 21     | 5      | name.com          |
+| quotes.fit    | resell    | —         | —             | 58             | 29     | 6      | GoDaddy.com, LLC  |
+| tips.fit      | premium   | $2,500    | —             | 80             | 26     | 4      | name.com          |
+| beans.fit     | available | $2.99     | —             | 74             | 20     | 5      | name.com          |
+| sit.fit       | resell    | —         | —             | 74             | 24     | 3      | NameCheap, Inc.   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 8,230-row public sample | 8,224 live domains                               |
+| 1,000-row public sample | 10,489 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FIT One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FIT One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
