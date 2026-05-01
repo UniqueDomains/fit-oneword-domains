@@ -1,10 +1,10 @@
-# Available .FIT One-Word Domains (10,489)
+# Available .FIT One-Word Domains (11,038)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C489%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C038%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .fit one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **10,489 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,038 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 10,489 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,038 domains
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-01  
 **Canonical page:** `https://unique.domains/domains/tld/fit`  
 **Best for:** founders, investors, studios
 
@@ -72,16 +72,16 @@ print(df.head())
 | Tools.fit     | premium   | $280      | $35           | 56             | 40     | 5      | namecheap         |
 | RedSox.fit    | available | $45.98    | —             | 72             | 60     | 7      | namecheap         |
 | lets.fit      | resell    | —         | —             | 77             | 39     | 4      | Spaceship, Inc.   |
-| events.fit    | premium   | $5,000    | —             | 68             | 37     | 6      | name.com          |
+| etc.fit       | premium   | $1,000    | —             | 58             | 34     | 3      | name.com          |
 | payments.fit  | available | $2.99     | —             | 58             | 33     | 8      | name.com          |
 | spectra.fit   | resell    | —         | —             | 62             | 34     | 7      | Sav.com, LLC - 24 |
-| etc.fit       | premium   | $1,000    | —             | 58             | 34     | 3      | name.com          |
+| trades.fit    | premium   | $242      | $29.50        | 71             | 26     | 6      | namesilo          |
 | inhouse.fit   | available | $2.99     | —             | 70             | 23     | 8      | name.com          |
 | videos.fit    | resell    | —         | —             | 52             | 30     | 6      | GoDaddy.com, LLC  |
-| partners.fit  | premium   | $1,000    | —             | 61             | 32     | 8      | name.com          |
-| faces.fit     | available | $2.99     | —             | 60             | 21     | 5      | name.com          |
+| pops.fit      | premium   | $242      | $29.50        | 74             | 24     | 4      | namesilo          |
+| blogs.fit     | available | $2.99     | —             | 52             | 21     | 5      | name.com          |
 | quotes.fit    | resell    | —         | —             | 58             | 29     | 6      | GoDaddy.com, LLC  |
-| tips.fit      | premium   | $2,500    | —             | 80             | 26     | 4      | name.com          |
+| shops.fit     | premium   | $2,500    | —             | 64             | 24     | 5      | name.com          |
 | beans.fit     | available | $2.99     | —             | 74             | 20     | 5      | name.com          |
 | sit.fit       | resell    | —         | —             | 74             | 24     | 3      | NameCheap, Inc.   |
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 10,489 live domains                              |
+| 1,000-row public sample | 11,038 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FIT One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FIT One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
