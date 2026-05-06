@@ -182,6 +182,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 1069011c-d48c-4baa-b7e6-62b1cb42b430,tomboys.fit,available,2.99,,52,2,7,name.com,,
 1070615c-3e9f-4cbd-8e67-8df25f36de5e,replied.fit,available,2.99,,58,4,7,name.com,,
 10753f39-dd5b-41ac-84f3-37ff84e588f1,etc.fit,premium,1000,,58,34,3,name.com,,
+10a52f85-63de-4da9-a6d0-47338da6d0d0,club.fit,resell,,,76,39,4,"GoDaddy.com, LLC",27/01/2021 01:25,27/01/2027 01:25
 10b93d48-2e1d-4249-932b-8615085490f4,stuffit.fit,available,2.99,,44,5,8,name.com,,
 10b9dd5c-2b05-4018-b550-1287bbc2a411,makebelieve.fit,available,2.99,,76,9,12,name.com,,
 10beceb4-2411-4a2d-bd37-11a89d3a2610,resorted.fit,available,2.99,,50,1,8,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5b8f1e4f-7fac-4c0f-a6cd-9f19d3d694ef,Americans.fit,premium,2800,35,56,10,9,namecheap,,
 5bb2e037-a491-4fe4-9742-d98caf3cd712,openings.fit,available,2.99,,62,9,8,name.com,,
 5bb86424-1aec-4d12-9399-485622c2bd90,DeadSea.fit,available,45.98,,50,6,8,namecheap,,
-5be7914b-8faf-43b7-9ac7-58b0c96c067c,coffeeglass.fit,available,2.99,,80,1,12,name.com,,
