@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .fit one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 11,057 domains · **Median ask:** $54.58 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/fit`  
 **Best for:** founders, investors, studios
 
@@ -69,7 +69,7 @@ print(df.head())
 | toneup.fit    | available | $2.99     | —             | 80             | 5      | 7      | name.com          |
 | Netflix.fit   | premium   | —         | —             | 92             | 58     | 7      | —                 |
 | Snickers.fit  | available | $45.98    | —             | 80             | 10     | 8      | namecheap         |
-| rumcake.fit   | available | $2.99     | —             | 81             | 3      | 8      | name.com          |
+| rumcake.fit   | available | $2.99     | —             | 81             | 2      | 8      | name.com          |
 | beawake.fit   | available | $2.99     | —             | 84             | 3      | 8      | name.com          |
 | chaitea.fit   | available | $2.99     | —             | 86             | 3      | 8      | name.com          |
 | bedframe.fit  | available | $2.99     | —             | 80             | 3      | 9      | name.com          |
@@ -82,7 +82,7 @@ print(df.head())
 | Tools.fit     | premium   | $280      | $35           | 56             | 40     | 5      | namecheap         |
 | RedSox.fit    | available | $45.98    | —             | 72             | 60     | 7      | namecheap         |
 | lets.fit      | resell    | —         | —             | 77             | 39     | 4      | Spaceship, Inc.   |
-| etc.fit       | premium   | $1,000    | —             | 58             | 34     | 3      | name.com          |
+| etc.fit       | premium   | $1,000    | —             | 58             | 32     | 3      | name.com          |
 | payments.fit  | available | $2.99     | —             | 58             | 33     | 8      | name.com          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FIT One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FIT One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
