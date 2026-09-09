@@ -101,7 +101,7 @@ dfbe07d3-54f8-42cb-be02-849c85c67c78,Westwood.fit,premium,47.2,29.5,low,low,8,na
 98964cce-3651-4e5a-9aa4-68805985f28a,acinar.fit,available,2.98,45.98,low,low,6,namecheap,,
 ead3bae5-7e94-46c7-bcde-2f3e8ee232b7,laserpointer.fit,available,2.99,,medium,low,13,name.com,,
 38fe371f-fb72-4dda-bceb-c12391422890,abridged.fit,available,2.98,45.98,low,low,8,namecheap,,
-326fecd4-3dd8-4b59-b2ac-c5983de9e00f,dough.fit,available,2.98,45.98,low,low,5,namecheap,,
+326fecd4-3dd8-4b59-b2ac-c5983de9e00f,dough.fit,available,2.98,45.98,medium,low,5,namecheap,,
 0f322741-f2b2-4d90-8712-31987bee84e6,attheriskof.fit,available,2.99,,medium,low,14,name.com,,
 6341334c-0c5e-4f6e-bafc-5ebc98dcc8b6,orphan.fit,available,2.99,,high,low,6,name.com,,
 a46ea8ab-fa3a-404f-bad1-8b34be474a22,whogoesthere.fit,available,2.99,,low,low,14,name.com,,
@@ -297,7 +297,7 @@ f2ef12d2-4c2e-4631-924a-0c3fce824730,hair.fit,premium,96,29.5,high,low,4,namesil
 920fadfb-b4ec-4c4b-b773-c8ad86e67a12,bleak.fit,available,2.98,45.98,low,low,5,namecheap,,
 9eeaf950-714e-463f-962d-4a9584249c69,IKiribati.fit,available,2.99,,high,low,10,name.com,,
 161f1c4c-6573-4ba2-8cb8-8f7442a45fae,aussie.fit,resell,,,high,low,6,"GoDaddy.com, LLC",01/09/2025 19:46,01/09/2027 19:46
-68a835f8-141e-485d-8288-d5c033aa8095,nature.fit,resell,,,high,low,6,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),09/11/2019 08:38,09/11/2026 08:38
+68a835f8-141e-485d-8288-d5c033aa8095,nature.fit,resell,,,medium,low,6,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),09/11/2019 08:38,09/11/2026 08:38
 b3c58b92-8f2f-46bc-9adc-0eaa2f63d114,militant.fit,available,2.98,45.98,low,low,8,namecheap,,
 7720b084-200f-4a53-970d-c6cd77009ba6,baguette.fit,available,2.99,32.49,high,low,8,namesilo,,
 6d36540a-30e5-4579-a672-bb9bde9be480,xxvii.fit,available,2.98,45.98,low,low,5,namecheap,,
@@ -838,7 +838,7 @@ eb5b5d7a-a114-4139-8564-e7879c401f34,lawless.fit,available,2.98,45.98,low,low,7,
 206ac940-1a1a-4b24-8c1f-01626eda6b2a,letthecatout.fit,available,2.99,,high,low,15,name.com,,
 1b5cfc98-d5be-40d8-aa5c-c14aecde82ee,choice.fit,premium,100,45.99,high,low,6,name.com,,
 f7b0bd6e-b10d-410e-a9e8-16efd43a8b29,allfired.fit,available,2.98,45.98,low,low,9,namecheap,,
-df821dd3-0664-45bf-8855-c645cd840676,stove.fit,available,2.98,45.98,low,low,5,namecheap,,
+df821dd3-0664-45bf-8855-c645cd840676,stove.fit,available,2.98,45.98,medium,low,5,namecheap,,
 90ec7c1a-71de-4470-98ba-58aab8478ee3,cerulean.fit,available,2.98,45.98,medium,low,8,namecheap,,
 1194a575-2bc0-429d-bf7c-58baadab00fc,databaseanalyst.fit,available,2.99,,medium,low,16,name.com,,
 2431a93d-b6a7-4ab7-9aa7-5d517eee4fbd,dustyrose.fit,available,2.99,32.49,medium,low,10,namesilo,,
