@@ -1,10 +1,10 @@
-# Available .FIT One-Word Domains (27,974)
+# Available .FIT One-Word Domains (29,529)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-27%2C974%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-29%2C529%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .fit one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **27,974 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **29,529 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 27,974 domains · **Median ask:** $41.85 · **High-demand under $2,500:** 10
+**Public extract:** 1,000 rows · **Live catalog:** 29,529 domains · **Median ask:** $40.51 · **High-demand under $2,500:** 9
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/fit`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                     |
-| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------------------- |
-| idle.fit   | available | $2.98     | $45.98        | low            | low    | 4      | namecheap                     |
-| menu.fit   | resell    | $52       | $31.20        | high           | low    | 4      | NameCheap, Inc.               |
-| abo.fit    | premium   | $500      | $46.99        | low            | low    | 3      | name.com                      |
-| lawn.fit   | available | $2.99     | —             | medium         | low    | 4      | name.com                      |
-| veggie.fit | resell    | $2.99     | —             | medium         | low    | 6      | Spaceship, Inc.               |
-| age.fit    | premium   | $2,660    | $29.50        | medium         | low    | 3      | namesilo                      |
-| pita.fit   | available | $2.99     | —             | high           | low    | 4      | name.com                      |
-| her.fit    | resell    | —         | —             | medium         | low    | 3      | GoDaddy.com, LLC              |
-| aid.fit    | premium   | $854      | $29.50        | medium         | low    | 3      | namesilo                      |
-| pope.fit   | available | $2.99     | —             | high           | low    | 4      | name.com                      |
-| cool.fit   | resell    | —         | —             | high           | low    | 4      | West263 International Limited |
-| ape.fit    | premium   | $242      | $29.50        | medium         | low    | 3      | namesilo                      |
-| algal.fit  | available | $2.98     | $45.98        | low            | low    | 5      | namecheap                     |
-| epic.fit   | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC              |
-| awe.fit    | premium   | $854      | $29.50        | high           | low    | 3      | namesilo                      |
-| apian.fit  | available | $2.98     | $45.98        | low            | low    | 5      | namecheap                     |
-| maze.fit   | resell    | —         | —             | medium         | low    | 4      | GoDaddy.com, LLC              |
-| beg.fit    | premium   | $854      | $29.50        | medium         | low    | 3      | namesilo                      |
-| atilt.fit  | available | $2.98     | $45.98        | low            | low    | 5      | namecheap                     |
-| nail.fit   | resell    | —         | —             | low            | low    | 4      | Spaceship, Inc.               |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                     |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------------------- |
+| idle.fit      | available | $2.98     | $45.98        | low            | low    | 4      | namecheap                     |
+| menu.fit      | resell    | $52       | $31.20        | high           | low    | 4      | NameCheap, Inc.               |
+| abo.fit       | premium   | $500      | $46.99        | low            | low    | 3      | name.com                      |
+| lawn.fit      | available | $2.99     | —             | medium         | low    | 4      | name.com                      |
+| veggie.fit    | resell    | $2.99     | —             | medium         | low    | 6      | Spaceship, Inc.               |
+| age.fit       | premium   | $2,660    | $29.50        | medium         | low    | 3      | namesilo                      |
+| pita.fit      | available | $2.99     | —             | high           | low    | 4      | name.com                      |
+| dedicated.fit | resell    | $42.99    | $45.99        | medium         | low    | 9      | name.com                      |
+| aid.fit       | premium   | $854      | $29.50        | medium         | low    | 3      | namesilo                      |
+| pope.fit      | available | $2.99     | —             | high           | low    | 4      | name.com                      |
+| her.fit       | resell    | —         | —             | medium         | low    | 3      | GoDaddy.com, LLC              |
+| ape.fit       | premium   | $242      | $29.50        | medium         | low    | 3      | namesilo                      |
+| algal.fit     | available | $2.98     | $45.98        | low            | low    | 5      | namecheap                     |
+| cool.fit      | resell    | —         | —             | medium         | low    | 4      | West263 International Limited |
+| awe.fit       | premium   | $854      | $29.50        | high           | low    | 3      | namesilo                      |
+| apian.fit     | available | $2.98     | $45.98        | low            | low    | 5      | namecheap                     |
+| epic.fit      | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC              |
+| beg.fit       | premium   | $854      | $29.50        | medium         | low    | 3      | namesilo                      |
+| atilt.fit     | available | $2.98     | $45.98        | low            | low    | 5      | namecheap                     |
+| maze.fit      | resell    | —         | —             | medium         | low    | 4      | GoDaddy.com, LLC              |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 27,974 live domains                        |
+| 1,000-row public sample | 29,529 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 10 high-demand names under $2,500          |
+| Basic exported fields   | 9 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FIT One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FIT One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
