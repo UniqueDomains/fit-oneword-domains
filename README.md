@@ -1,10 +1,10 @@
-# Available .FIT One-Word Domains (21,259)
+# Available .FIT One-Word Domains (21,708)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-21%2C259%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-21%2C708%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .fit one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **21,259 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **21,708 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 21,259 domains · **Median ask:** $69.30 · **High-demand under $2,500:** 15
+**Public extract:** 1,000 rows · **Live catalog:** 21,708 domains · **Median ask:** $69.57 · **High-demand under $2,500:** 16
 
 **Last updated:** 2026-09-28
 **Canonical page:** `https://unique.domains/domains/tld/fit`
@@ -66,23 +66,23 @@ print(df.head())
 | ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------------------- |
 | byrd.fit     | available | $2.99     | $32.49        | high           | low    | 4      | namesilo                      |
 | geeks.fit    | resell    | $2.99     | —             | high           | low    | 5      | Spaceship, Inc.               |
-| ana.fit      | premium   | $854      | $29.50        | high           | low    | 3      | namesilo                      |
+| acm.fit      | premium   | $96       | $29.50        | high           | low    | 3      | namesilo                      |
 | cent.fit     | available | $2.98     | $45.98        | high           | low    | 4      | namecheap                     |
 | stern.fit    | resell    | $2.99     | —             | high           | low    | 5      | Spaceship, Inc.               |
-| ant.fit      | premium   | $1,000    | —             | high           | medium | 3      | name.com                      |
+| ana.fit      | premium   | $854      | $29.50        | high           | low    | 3      | namesilo                      |
 | heel.fit     | available | $2.99     | —             | high           | low    | 4      | name.com                      |
 | intrepid.fit | resell    | $2.99     | —             | high           | low    | 8      | Spaceship, Inc.               |
 | atf.fit      | premium   | $1,040    | $32.50        | high           | low    | 3      | namecheap                     |
-| rash.fit     | available | $2.98     | $45.98        | medium         | low    | 4      | namecheap                     |
+| nell.fit     | available | $1.75     | $26.08        | medium         | low    | 4      | spaceship                     |
 | sapphire.fit | resell    | $2.99     | —             | high           | medium | 8      | Spaceship, Inc.               |
 | ben.fit      | premium   | $854      | $29.50        | high           | medium | 3      | namesilo                      |
-| stud.fit     | available | $2.99     | $32.49        | high           | low    | 4      | namesilo                      |
+| rash.fit     | available | $2.98     | $45.98        | medium         | low    | 4      | namecheap                     |
 | diy.fit      | resell    | —         | —             | high           | low    | 3      | West263 International Limited |
 | bow.fit      | premium   | $2,660    | $29.50        | high           | low    | 3      | namesilo                      |
-| abort.fit    | available | $2.98     | $45.98        | high           | low    | 5      | namecheap                     |
+| stud.fit     | available | $2.99     | $32.49        | high           | low    | 4      | namesilo                      |
 | get.fit      | resell    | —         | —             | high           | high   | 3      | Epik LLC                      |
 | bra.fit      | premium   | $854      | $29.50        | high           | low    | 3      | namesilo                      |
-| abuse.fit    | available | $2.99     | —             | high           | low    | 5      | name.com                      |
+| waco.fit     | available | $1.75     | $26.08        | high           | low    | 4      | spaceship                     |
 | ray.fit      | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC              |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 21,259 live domains                        |
+| 1,000-row public sample | 21,708 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 15 high-demand names under $2,500          |
+| Basic exported fields   | 16 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
